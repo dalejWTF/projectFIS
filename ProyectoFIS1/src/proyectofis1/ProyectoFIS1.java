@@ -16,6 +16,8 @@ public class ProyectoFIS1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        guiLogin rp= new guiLogin();
+        rp.setVisible(true);
     }
     
 }
